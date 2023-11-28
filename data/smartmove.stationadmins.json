@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "655e32f5d9e3b4a3c7420bb5"
+  },
+  "adminID": 1234567890,
+  "adminName": "Muhire James",
+  "phone": 1234567890,
+  "email": "james@gmail.com",
+  "stationID": "655e32f5d9e3b4a3c7420bb3",
+  "password": "$2b$10$vDvQxymaWPcnhOe98Xm6IOv/vkBvgSDE8ipZswarLdJplMwH9VZTi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3981d9e3b4a3c7420bd1"
+  },
+  "adminID": 1111,
+  "adminName": "Muhire Kelly",
+  "phone": 784976100,
+  "email": "kelly@gmail.com",
+  "stationID": "655e3981d9e3b4a3c7420bcf",
+  "password": "$2b$10$srN8vPr6pSIg00Qq570jQe/F2.pQMc/EQe8yzwBU4Cw1kGK88zYnq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3a4dd9e3b4a3c7420bdf"
+  },
+  "adminID": 2222,
+  "adminName": "Muhire Jane",
+  "phone": 784976100,
+  "email": "jane@gmail.com",
+  "stationID": "655e3a4dd9e3b4a3c7420bdd",
+  "password": "$2b$10$pG.eFTdec1./7s4Q9QFmXONHWtO0mgcq6jCqn4pS8wz/sMzDiDlqW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3aaed9e3b4a3c7420bed"
+  },
+  "adminID": 3333,
+  "adminName": "Muhire John",
+  "phone": 784976100,
+  "email": "john@gmail.com",
+  "stationID": "655e3aadd9e3b4a3c7420beb",
+  "password": "$2b$10$dUcNXuyfWOwNTyhTJ719ZeqwnSZ/cLwzLS6i2pU7Nr0rMHuPfBPhu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3b1ed9e3b4a3c7420c03"
+  },
+  "adminID": 4444,
+  "adminName": "Muhire Aime",
+  "phone": 784976100,
+  "email": "aime@gmail.com",
+  "stationID": "655e3b1ed9e3b4a3c7420c01",
+  "password": "$2b$10$a5Ns9kDpqc0lDYVZH8a9AersA1lpfYfz.bI2m56.iN0d0Za6Do.fy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3bacd9e3b4a3c7420c11"
+  },
+  "adminID": 5555,
+  "adminName": "Muhire Marie",
+  "phone": 784976100,
+  "email": "marie@gmail.com",
+  "stationID": "655e3bacd9e3b4a3c7420c0f",
+  "password": "$2b$10$0hcjxWYzZjawOeJaBIoEuO.jyFJhLc6kugh0mrQ.acixzk8.XDKPO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3c20d9e3b4a3c7420c1f"
+  },
+  "adminID": 6666,
+  "adminName": "Muhire amore",
+  "phone": 784976100,
+  "email": "amore@gmail.com",
+  "stationID": "655e3c20d9e3b4a3c7420c1d",
+  "password": "$2b$10$nK6vsu57zuDB0YcQcNiPQecCSH.mY3p9Xgv1DIjZ5No8.HFkMh9ya",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3c9cd9e3b4a3c7420c35"
+  },
+  "adminID": 7777,
+  "adminName": "Muhire Hussan",
+  "phone": 784976100,
+  "email": "hussan@gmail.com",
+  "stationID": "655e3c9cd9e3b4a3c7420c33",
+  "password": "$2b$10$s3hXQpdDG0KqcbIsyB/bsuIypGGuiaBTMc05Z.lP3pkqyHbj3vxvS",
+  "__v": 0
+}]

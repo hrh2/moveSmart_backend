@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "655eeafd77699f1c839a3f14"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAD100B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "NYABUGOGO",
+  "sits": "1",
+  "code": "1234",
+  "cost": "250",
+  "isUsed": false,
+  "isGiven": true,
+  "isSuspended": false,
+  "time": "06:00",
+  "date": "23/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655eeb0b77699f1c839a3f19"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAD101B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "NYABUGOGO",
+  "sits": "4",
+  "code": "1234",
+  "cost": "1000",
+  "isUsed": false,
+  "isGiven": true,
+  "isSuspended": false,
+  "time": "07:00",
+  "date": "23/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655eeb1477699f1c839a3f1e"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAD102B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "NYABUGOGO",
+  "sits": "5",
+  "code": "1234",
+  "cost": "1250",
+  "isUsed": false,
+  "isGiven": true,
+  "isSuspended": false,
+  "time": "08:00",
+  "date": "23/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f53141c563d09363a0cea"
+  },
+  "stationName": "NYABUGOGO",
+  "plate": "RAD100A",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "NYABUGOGO",
+  "to": "REMERA",
+  "sits": "3",
+  "code": "1234",
+  "cost": "600",
+  "isUsed": false,
+  "isGiven": false,
+  "isSuspended": false,
+  "time": "06:00",
+  "date": "23/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655fa24c352a5ffc81dd964b"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAD105B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "NYABUGOGO",
+  "sits": "20",
+  "code": "1234",
+  "cost": "5000",
+  "isUsed": false,
+  "isGiven": true,
+  "isSuspended": false,
+  "time": "11:00",
+  "date": "23/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656395cad4f272d29e3d74e2"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAC100B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "DOWN TOWN",
+  "sits": "2",
+  "code": "1234",
+  "cost": "600",
+  "isUsed": false,
+  "isGiven": false,
+  "isSuspended": false,
+  "time": "06:00",
+  "date": "26/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564e410f6ce8cbe627b5e64"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAC100B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "DOWN TOWN",
+  "sits": "5",
+  "code": "1234",
+  "cost": "1500",
+  "isUsed": false,
+  "isGiven": false,
+  "isSuspended": false,
+  "time": "06:00",
+  "date": "27/11/2023",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6564e4bbf6ce8cbe627b5e79"
+  },
+  "stationName": "KIMIRONKO",
+  "plate": "RAD101B",
+  "ownerId": "655d072276ce57464ca1b70c",
+  "ownerName": "Hirwa Hope",
+  "from": "KIMIRONKO",
+  "to": "NYABUGOGO",
+  "sits": "7",
+  "code": "1234",
+  "cost": "1750",
+  "isUsed": false,
+  "isGiven": false,
+  "isSuspended": false,
+  "time": "07:00",
+  "date": "27/11/2023",
+  "__v": 0
+}]

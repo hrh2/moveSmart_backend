@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "655edbe277699f1c839a3a4a"
+  },
+  "cashierID": 21,
+  "cashierName": "Kamili James",
+  "email": "jamess@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e3981d9e3b4a3c7420bcf",
+  "ground": "NYABUGOGO",
+  "password": "$2b$10$MtCTI0pVP64TRNkBdBnIfOSPfGuqhzQSJBlaaHA7.qj0b5baSSy6W",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655edc5577699f1c839a3a4f"
+  },
+  "cashierID": 22,
+  "cashierName": "Kamili John",
+  "email": "johnn@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e3981d9e3b4a3c7420bcf",
+  "ground": "DOWN TOWN",
+  "password": "$2b$10$kGcxXrRSNeue0b8Ln7Aco.6TaOrC9FS/em1Lda430klHxjOlEO2O6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee03977699f1c839a3af2"
+  },
+  "cashierID": 11,
+  "cashierName": "Kamali kelly",
+  "email": "kellyy@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e32f5d9e3b4a3c7420bb3",
+  "ground": "G1",
+  "password": "$2b$10$qKzq6jkNpZrOmURynhtJWegCHC5iVZ2BYa2I1oxxbF1rxmP5jNw8a",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee08277699f1c839a3af7"
+  },
+  "cashierID": 12,
+  "cashierName": "Kamali Eloi",
+  "email": "eloi@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e32f5d9e3b4a3c7420bb3",
+  "ground": "G2",
+  "password": "$2b$10$5UXBYLwaojTQPGXvfxAeZeJelR6nbspv6eMfnFoGRyFRG35.RsCsi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee61577699f1c839a3c05"
+  },
+  "cashierID": 31,
+  "cashierName": "Kamikazi jane",
+  "email": "janee@gmaill.com",
+  "phone": 784976100,
+  "stationID": "655e3a4dd9e3b4a3c7420bdd",
+  "ground": "G1",
+  "password": "$2b$10$pgqqmQU.TzwshuhrPambMOwqBUsUvHIznpv3Ij/6beseVE4F9fONe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee64077699f1c839a3c0a"
+  },
+  "cashierID": 1111,
+  "cashierName": "Kamikazi Mary",
+  "email": "mary@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e3a4dd9e3b4a3c7420bdd",
+  "ground": "G2",
+  "password": "$2b$10$qMrCOxql9JarITeuJgmLwOnciTKrxgkS/kYAAo0/.ZORIbqmPjpN.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee80777699f1c839a3c71"
+  },
+  "cashierID": 41,
+  "cashierName": "Mukiza Amidu",
+  "email": "amidu@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e3aadd9e3b4a3c7420beb",
+  "ground": "G1",
+  "password": "$2b$10$xuvSa.2SDza390gFM/93NOvyUPnNlCyxbtDVquh0DhdZlRUrqpwzm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee83477699f1c839a3c76"
+  },
+  "cashierID": 42,
+  "cashierName": "Mukiza chriss",
+  "email": "chriss@gmail.com",
+  "phone": 784976100,
+  "stationID": "655e3aadd9e3b4a3c7420beb",
+  "ground": "G2",
+  "password": "$2b$10$IjioCqY5nqocu3VkM9GTE..kZ0.WzLqXdeIFtQy4J6X4.RwilYpHO",
+  "__v": 0
+}]

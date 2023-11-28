@@ -1,0 +1,49 @@
+Stations : Pass : Hope1234567890.
+-------------
+Kimironko ->Muhire kelly
+Nyabugogo ->Muhire james
+Remera    ->Muhire jane
+Huye      ->Muhire john
+Musanze   ->Muhire Aime
+Karongi  ->Muhire Marie
+Muhanga   ->Muhire amore
+Down Twon ->Muhire Hussan
+---------------------------------------------------
+Cashier
+-----------
+#####################
+1___
+Kamali Kelly
+Kamali ELoi
+RAD100A
+RAC100A
+2___
+21.Kamili James
+22.Kamili John
+RAD100B
+RAC100B
+3___
+Kamikazi Jane
+Kamikazi Mary
+RAD100C
+4___
+Mukiza Amidu
+Mukiza Chriss
+RAD100D
+###########################
+5___
+Muhirwa Emmy
+Muhirwa Jane
+RAD100E
+6___
+Kalisa yanny
+Kalisa yvan
+RAD100F
+7___
+Ihirwe Amina
+Ihirwe Rameo
+RAD100G
+8___
+Karoli Jelly
+Karoli Tomy
+RAD100H

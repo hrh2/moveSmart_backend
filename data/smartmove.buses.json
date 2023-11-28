@@ -1,0 +1,662 @@
+[{
+  "_id": {
+    "$oid": "655edca777699f1c839a3a64"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD100B",
+  "price": 250,
+  "sits": 100,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 99,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [
+    "Hirwa Hope"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "655edcd077699f1c839a3a6f"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD101B",
+  "price": 250,
+  "sits": 100,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 89,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [
+    "Hirwa Hope",
+    "Hirwa Hope"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "655edcfc77699f1c839a3a76"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD102B",
+  "price": 250,
+  "sits": 100,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 95,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [
+    "Hirwa Hope"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "655edd2277699f1c839a3a7f"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD103B",
+  "price": 250,
+  "sits": 100,
+  "time": "09:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 100,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655edd4577699f1c839a3a86"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD104B",
+  "price": 250,
+  "sits": 100,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 100,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655edd6d77699f1c839a3a8d"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAD105B",
+  "price": 250,
+  "sits": 100,
+  "time": "11:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 80,
+  "destinationId": "655e32f5d9e3b4a3c7420bb3",
+  "destinationName": "NYABUGOGO",
+  "allPassengers": [
+    "Hirwa Hope"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "655edde177699f1c839a3aa0"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC100B",
+  "price": 300,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 193,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [
+    "Hirwa Hope",
+    "Hirwa Hope"
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "655ede1877699f1c839a3ab3"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC101B",
+  "price": 300,
+  "sits": 200,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ede3577699f1c839a3aba"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC102B",
+  "price": 300,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ede5477699f1c839a3ac1"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC103B",
+  "price": 300,
+  "sits": 200,
+  "time": "09:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ede7077699f1c839a3ac8"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC104B",
+  "price": 300,
+  "sits": 200,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ede9177699f1c839a3acf"
+  },
+  "ownerStation": "655e3981d9e3b4a3c7420bcf",
+  "plate": "RAC105B",
+  "price": 300,
+  "sits": 200,
+  "time": "11:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee13f77699f1c839a3b21"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD100A",
+  "price": 200,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 197,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [
+    "Hirwa Hope"
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "655ee15977699f1c839a3b28"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD101A",
+  "price": 200,
+  "sits": 200,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee1a977699f1c839a3b31"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD102A",
+  "price": 200,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee1dc77699f1c839a3b40"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD103A",
+  "price": 200,
+  "sits": 200,
+  "time": "09:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee1f577699f1c839a3b47"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD104A",
+  "price": 200,
+  "sits": 200,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee22e77699f1c839a3b64"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAD105A",
+  "price": 200,
+  "sits": 200,
+  "time": "11:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3a4dd9e3b4a3c7420bdd",
+  "destinationName": "REMERA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee2be77699f1c839a3b83"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC100A",
+  "price": 2500,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee2e977699f1c839a3b8a"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC101A",
+  "price": 2500,
+  "sits": 200,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee30277699f1c839a3b91"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC102A",
+  "price": 2500,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee31e77699f1c839a3b98"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC103A",
+  "price": 2500,
+  "sits": 200,
+  "time": "09:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee35977699f1c839a3ba3"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC104A",
+  "price": 2500,
+  "sits": 200,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee37b77699f1c839a3bac"
+  },
+  "ownerStation": "655e32f5d9e3b4a3c7420bb3",
+  "plate": "RAC105A",
+  "price": 2500,
+  "sits": 200,
+  "time": "11:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3aadd9e3b4a3c7420beb",
+  "destinationName": "HUYE",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee67577699f1c839a3c1f"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAD100C",
+  "price": 1700,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee69577699f1c839a3c26"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAD101C",
+  "price": 1700,
+  "sits": 200,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee6b277699f1c839a3c2d"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAD102C",
+  "price": 1700,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee6fb77699f1c839a3c3c"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAC103C",
+  "price": 345,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee72077699f1c839a3c45"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAD104C",
+  "price": 345,
+  "sits": 200,
+  "time": "07:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee74677699f1c839a3c4e"
+  },
+  "ownerStation": "655e3a4dd9e3b4a3c7420bdd",
+  "plate": "RAD105C",
+  "price": 345,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c9cd9e3b4a3c7420c33",
+  "destinationName": "DOWN TOWN",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee8a777699f1c839a3c97"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD100D",
+  "price": 1000,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee8c877699f1c839a3c9e"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD101D",
+  "price": 1000,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee8ea77699f1c839a3cb1"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD102D",
+  "price": 1000,
+  "sits": 200,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3c20d9e3b4a3c7420c1d",
+  "destinationName": "MUHANGA",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee92477699f1c839a3cba"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD103D",
+  "price": 2000,
+  "sits": 200,
+  "time": "06:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3bacd9e3b4a3c7420c0f",
+  "destinationName": "KARONGI",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee94377699f1c839a3cc1"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD104D",
+  "price": 2000,
+  "sits": 200,
+  "time": "08:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3bacd9e3b4a3c7420c0f",
+  "destinationName": "KARONGI",
+  "allPassengers": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655ee97777699f1c839a3cc8"
+  },
+  "ownerStation": "655e3aadd9e3b4a3c7420beb",
+  "plate": "RAD105D",
+  "price": 2000,
+  "sits": 200,
+  "time": "10:00",
+  "isInRest": false,
+  "inUseA": true,
+  "isFull": false,
+  "availableSize": 200,
+  "destinationId": "655e3bacd9e3b4a3c7420c0f",
+  "destinationName": "KARONGI",
+  "allPassengers": [],
+  "__v": 0
+}]
